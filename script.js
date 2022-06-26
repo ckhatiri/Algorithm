@@ -7,6 +7,8 @@ C :
 E : - The sentence must end with a point
     - The length of the sentence without space
     - The number of words in the sentence without ".",","
+    let set1 = [3, 1, 7, 9]
+    let set2 = [2, 4, 1, 9, 3]
  */
 
 
